@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFBzL60fE8/GFNtAE2bSwQSrQu6a02YGA/edit" alt="https://github.com/Susmita549"/>
+[![MasterHead](https://www.canva.com/design/DAFBzL60fE8/GFNtAE2bSwQSrQu6a02YGA/edit)](https://github.com/Susmita549.github.io)
 
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
 <h3 align="center">A Full-Stack Web Developer always ready for learning new technologies.</h3>
