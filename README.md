@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
 <h3 align="center">A Full-Stack Web Developer always ready for learning new technologies.</h3>
 
-<p><img align="left" src="https://bit.ly/3IKhawx" alt="Susmita549" /></p>
+<p><img align="left" src="https://bit.ly/3AS8H8L" alt="Susmita549" width=100% margin=20px /></p>
 
 
 <br/>
