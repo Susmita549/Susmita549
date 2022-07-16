@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
 <h3 align="center">A Full-Stack Web Developer always ready for learning new technologies.</h3>
 
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita549&label=Profile%20views&color=0e75b6&style=flat" alt="susmita549" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmita549" alt="susmita549" /></a> </p>
@@ -36,9 +40,22 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Susmita549&show_icons=true&locale=en&layout=compact" alt="Susmita549" /></p>
 
+
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Susmita549&show_icons=true&locale=en" alt="Susmita549" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita549&" alt="Susmita549" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Susmita549&theme=radical&hide_border=false)
+
+
+<a href="https://github.com/Susmita549-cmd/github-readme-activity-graph"><img alt="Susmita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Susmita549&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanu55555&show_icons=true&locale=en" alt="santanu55555" /></p>
 
