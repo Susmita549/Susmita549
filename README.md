@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
 <h3 align="center">A Full-Stack Web Developer always ready for learning new technologies.</h3>
 
+<p><img align="left" src="https://bit.ly/3IKhawx" alt="Susmita549" /></p>
 
 
-
+<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmita549&label=Profile%20views&color=0e75b6&style=flat" alt="susmita549" /> </p>
+<br/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmita549" alt="susmita549" /></a> </p>
 
