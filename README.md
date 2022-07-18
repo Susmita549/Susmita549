@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jsusmita549@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lHt13TX0wQKGykhrVi4Ivfa4PBOswMM8/view?ts=628fd138](https://drive.google.com/file/d/1lHt13TX0wQKGykhrVi4Ivfa4PBOswMM8/view?ts=628fd138)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lHt13TX0wQKGykhrVi4Ivfa4PBOswMM8/view?ts=628fd138](https://drive.google.com/drive/folders/1MTsFB2BD6GqVsAEgs7MRxF7hoIp5aNHt)
 - My Portfolio : https://stellar-churros-a708b3.netlify.app/
 
 - ⚡ Fun fact **I always love to code.**
@@ -54,7 +54,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Susmita549&theme=radical&hide_border=false)
 
 
-<a href="https://github.com/Susmita549-cmd/github-readme-activity-graph"><img alt="Susmita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Susmita549&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 
 
