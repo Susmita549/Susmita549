@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend, Advance React**
 
-- 👨‍💻 All of my projects are available at [https://stellar-churros-a708b3.netlify.app/](https://stellar-churros-a708b3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://lustrous-seahorse-aecf85.netlify.app/](https://lustrous-seahorse-aecf85.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@jsusmita549](https://medium.com/@jsusmita549)
 
