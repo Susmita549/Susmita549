@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Susmita549&show_icons=true&locale=en" alt="Susmita549" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita549&" alt="Susmita549" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Susmita549" /></p>
+
+
