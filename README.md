@@ -1,3 +1,5 @@
+
+<img align="center" alt="Explorer" width="100%" height="100%" src="/gif.gif">
 <h1 align="center">Hi 👋, I'm Susmita Mandal</h1>
 <h3 align="center">A Full-Stack Web Developer always ready for learning new technologies.</h3>
 
