@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Susmita549" alt="Susmita549" /></a> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-bottom= "20px" src="https://github-profile-trophy.vercel.app/?username=Susmita549" alt="Susmita549" /></a> </p> -->
 
-- 🔭 I’m currently working on **Construct week project**
+- 🔭 I’m currently working on **Backend Project**
 
 - 🌱 I’m currently learning **Backend, Advance React**
 
