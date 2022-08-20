@@ -39,8 +39,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Susmita549&show_icons=true&locale=en&layout=compact" alt="Susmita549" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Susmita549&show_icons=true&locale=en" alt="Susmita549" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Susmita549" alt="Susmita549" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Susmita549)](https://git.io/streak-stats)
+
+<!-- (https://github-readme-streak-stats.herokuapp.com/?user=Susmita549)(https://git.io/streak-stats) -->
 
 <!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Susmita549" /></p> -->
 <a href="https://github.com/Susmita549/github-readme-activity-graph"><img alt="Susmita549's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Susmita549&bg_color=0F9CF1&color=0d1117&line=0d1117&point=FFFFFF&hide_border=true" /></a>
