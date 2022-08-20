@@ -35,24 +35,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="giticons/express.png" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="giticons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-react-native.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-redux.svg" alt="redux" width="40" height="40"/> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="giticons/icons8-node-js.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="giticons/icons8-javascript.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-typescript.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-html-5.svg" alt="html5" width="40" height="I40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-css3.svg" alt="css3" width="40" height="40"/> </a>  
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-chakra-ui.svg" alt="chakraui" width="40" height="40"/> </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-material-ui.svg" alt="mui" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-mongodb.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="giticons/express.png" alt="express" width="60" height="60"/> </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="giticons/cypress.svg" alt="cypress" width="60" height="60"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-react-native.svg" alt="react" width="60" height="60"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-redux.svg" alt="redux" width="60" height="60"/> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="giticons/icons8-node-js.svg" alt="nodejs" width="60" height="60"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="giticons/icons8-javascript.svg" alt="javascript" width="60" height="60"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-typescript.svg" alt="typescript" width="60" height="60"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-html-5.svg" alt="html5" width="60" height="I60"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-css3.svg" alt="css3" width="60" height="60"/> </a>  
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-bootstrap.svg" alt="bootstrap" width="60" height="60"/> </a>
+   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-chakra-ui.svg" alt="chakraui" width="60" height="60"/> </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-material-ui.svg" alt="mui" width="60" height="60"/> </a>
    <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="giticons/mongoose.png" alt="mongoose" width="60" height="30"/> </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="giticons/jest.svg" alt="jest" width="35" height="35"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="giticons/postman.svg" alt="postman" width="35" height="35"/> </a>
-  <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-heroku.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-google-firebase-console.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+  <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-heroku.svg" alt="heroku" width="60" height="60"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-google-firebase-console.svg" alt="firebase" width="60" height="60"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Susmita549&show_icons=true&locale=en&layout=compact" alt="Susmita549" /></p>
 
