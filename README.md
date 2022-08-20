@@ -48,7 +48,7 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-material-ui.svg" alt="mui" width="60" height="60"/> </a>
    <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="giticons/mongoose.png" alt="mongoose" width="50" height="50"/> </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="giticons/jest.svg" alt="jest" width="50" height="50"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="giticons/postman.svg" alt="postman" width="60" height="60"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="giticons/postman.svg" alt="postman" width="50" height="50"/> </a>
   <a href="https://dashboard.heroku.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-heroku.svg" alt="heroku" width="60" height="60"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="giticons/icons8-google-firebase-console.svg" alt="firebase" width="60" height="60"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
