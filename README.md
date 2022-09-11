@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jsusmita549@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y9Vt5cehW272YJvOsN3KsVDPuJsaaKuC/view?usp=sharing](Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y9Vt5cehW272YJvOsN3KsVDPuJsaaKuC/view?usp=sharing]
 
 - ⚡ Fun fact **I always love to code.**
 
