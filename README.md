@@ -10,13 +10,9 @@
 
 - 🔭 I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **Backend, Advance React**
-
 - 👨‍💻 All of my projects are available at [https://lustrous-seahorse-aecf85.netlify.app/](https://lustrous-seahorse-aecf85.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@jsusmita549](https://medium.com/@jsusmita549)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, DSA**
 
 - 📫 How to reach me **jsusmita549@gmail.com**
 
