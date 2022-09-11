@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Backend Project**
 
-- 👨‍💻 All of my projects are available at [https://lustrous-seahorse-aecf85.netlify.app/](https://lustrous-seahorse-aecf85.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://susmitamandal-portfolio.netlify.app/](https://lustrous-seahorse-aecf85.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@jsusmita549](https://medium.com/@jsusmita549)
 
