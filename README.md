@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-susmita.netlify.app/](https://portfolio-susmita.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@jsusmita549](https://medium.com/@jsusmita549)
-
-- 📫 How to reach me **jsusmita549@gmail.com**
+- 📫 How to reach me **mandalsusmitas614@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1LyZlB4gWn3_U4X5DZm41SoaXJzQGUcz_?usp=sharing]
 
